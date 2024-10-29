@@ -1,14 +1,14 @@
 from setuptools import setup
 
 setup(
-    name='math-quiz',
+    name='math_quiz',
     version='0.1.0',    
     description='A simple math quiz',
     url='https://github.com/Marco-Nguyen/FAU_DSSS_HW_2',
     author='Tai Hoang Nguyen',
     # author_email='shudson@anl.gov',
     license='Apache License',
-    packages=['math-quiz'],
+    packages=['math_quiz'],
     install_requires=['random',
                       'unittest',                     
                       ],
