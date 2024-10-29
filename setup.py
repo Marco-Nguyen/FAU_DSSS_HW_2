@@ -9,9 +9,9 @@ setup(
     # author_email='shudson@anl.gov',
     license='Apache License',
     packages=['math_quiz'],
-    install_requires=['random',
-                      'unittest',                     
-                      ],
+    # install_requires=['random',
+    #                   'unittest',                     
+    #                   ],
 
     classifiers=[
         # 'Development Status :: 1 - Planning',
